@@ -16,10 +16,5 @@ The bot might work in other Python versions, however, I did not test that.
 
 It's important that the version of the discord.py package will be 0.16.12, newer versions have major changes that I'm not familliar enough with. (This is why I used version 0.16.12 although it's outdated)
 
-### More Info
-To invite the bot to your discord server: [https://discordapp.com/api/oauth2/authorize?client_id=592640446342365185&permissions=8&scope=bot](https://discordapp.com/api/oauth2/authorize?client_id=592640446342365185&permissions=8&scope=bot)
-
-After the hack week competition ends, there's a chance that the bot will not be hosted anymore, it depends on my decision. However, I'm planning to keep this repository open. I'm NOT going to delete it, make it private or archive it.
-
 ### Credits
 The bot's profile picture was made by [Pettycon](https://pixabay.com/users/Pettycon-3307648/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2389216) on [Pixabay](https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2389216).
